@@ -1,0 +1,13 @@
+{
+	"subject" : "Add a subject" ,
+
+
+	"content" : {
+
+		"text" : "Add coursponding text of html\n",
+
+
+		"html" : "<h1 align=\"center\">Heading</h1>\n\t\n\n\t<p>Add paragraph and more html content</p>\n\t"
+
+	}
+}
