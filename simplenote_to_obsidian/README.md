@@ -1,0 +1,1 @@
+The main goal of this script is to give a smooth transition from simple notes to obsidian.
